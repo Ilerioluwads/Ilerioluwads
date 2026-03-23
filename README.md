@@ -39,4 +39,4 @@ raw data into clear business decisions.
 
 ## 📬 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/ilerioluwa-dayo-salako-83679b277)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ilerioluwa-dayo-salako-83679b277)
