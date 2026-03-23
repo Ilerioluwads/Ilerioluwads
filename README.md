@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Ilerioluwads 👋
 
-<!--
-**Ilerioluwads/Ilerioluwads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring data analyst based in Nigeria, focused on turning 
+raw data into clear business decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+
+- **Languages:** Python, SQL (in progress)
+- **Data manipulation:** pandas, NumPy
+- **Visualisation:** Matplotlib, Seaborn
+- **Machine learning:** Scikit-learn
+- **Other:** Jupyter Notebook, Git
+
+---
+
+## 📊 What I'm working on
+
+- Building a portfolio of real-world analytics projects
+- Completing the LeetCode SQL 50 challenge
+- Targeting data analyst roles in Finance, Healthcare, and Oil & Gas
+
+---
+
+## 📁 Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🔜 Coming soon | EDA project in progress | Python, pandas, Seaborn |
+
+---
+
+## 📜 Certifications
+
+- **DataCamp Associate Data Scientist** — completed 2024
+
+---
+
+## 📬 Let's connect
+
+[![LinkedIn](linkedin.com/in/ilerioluwa-dayo-salako-83679b277)]
